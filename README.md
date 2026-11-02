@@ -1,2 +1,2 @@
 # soc-lab-wazuh-thehive-cortex-misp
-SOC lab: Wazuh (SIEM) → theHive (case management) → Cortex + MISP (enrichment). Los ataques simulados son mapeados con MITRE ATT&amp;CK para clasificar las alertas como verdaderos o falsos positivos.
+Laboratorio SOC donde ataques simulados son detectados por Wazuh, escalados a TheHive y enriquecidos con Cortex y MISP para determinar si una alerta es un verdadero o falso positivo.
